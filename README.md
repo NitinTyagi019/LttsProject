@@ -1,1 +1,1 @@
-Leukemia Detection
+Leukemia detection
