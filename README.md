@@ -13,5 +13,5 @@ Test_plan	          |    Documents with test plans and procedures
 
 # Challenges Faced and How Was It Overcome
 
-1. Implementation of GLCM matrices -> Later resolved
-2. Microscopic image of blood samples -> Later resolved
+1. Implementation of GLCM matrices -> Later resolved.
+2. Microscopic image of blood samples -> Later resolved.
