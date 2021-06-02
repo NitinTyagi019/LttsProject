@@ -9,4 +9,4 @@ model function - calling file extraction function and classification function - 
 * Energy function - Requirement based test - Passing
 * Contrast function - Requirement based test - Passing
 * Correlation function - Requirement based test - Passing
-* Homogeneity function - Requirement based test - Passing
+* Homogeneity function - Requirement based test - Passing.
