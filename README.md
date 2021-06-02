@@ -10,3 +10,8 @@ Requirements	      |    Documents detailing requirements and research
 Design	            |    Documents specifying design details
 Implementation	    |    All code and documentation
 Test_plan	          |    Documents with test plans and procedures
+
+# Challenges Faced and How Was It Overcome
+
+1. Implementation of GLCM matrices.
+2. Microscopic image of blood samples.
