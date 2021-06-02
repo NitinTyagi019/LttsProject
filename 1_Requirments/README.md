@@ -58,7 +58,10 @@ Hr_01      |      Microscopic Images   | Implemented
 
 ID         |      Description          |      HLR_ID            | Status
 ----       |      -----------          |      ------            | -------
-Lr_01      |      Microscopic Images   |      Hr_01             |Implemented
+Lr_01      |      Energy               |      Hr_01             |Implemented
+Lr_02      |      Contrast             |      Hr_01             |Implemented
+Lr_03      |      Correlation          |      Hr_01             |Implemented
+Lr_04      |      Homogeneity          |      Hr_01             |Implemented
 
 
 
