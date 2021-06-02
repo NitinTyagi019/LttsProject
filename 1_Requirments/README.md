@@ -50,7 +50,7 @@ Can be used in laboraties, home, pathology.
 
 ## High Level Requirements:
 
-# ID       |      Description          | Status
+ ID       |      Description          | Status
 ----       |      -----------          | ------
 Hr_01      |      Microscopic Images   | Implemented
 
