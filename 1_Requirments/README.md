@@ -50,9 +50,16 @@ Can be used in laboraties, home, pathology.
 
 ## High Level Requirements:
 
- ID       |      Description          | Status
+ ID        |      Description          | Status
 ----       |      -----------          | ------
 Hr_01      |      Microscopic Images   | Implemented
+
+## Low level Requirements:
+
+ID         |      Description          |      HLR_ID            | Status
+----       |      -----------          |      ------            | -------
+Lr_01      |      Microscopic Images   |      Hr_01             |Implemented
+
 
 
 
