@@ -44,7 +44,7 @@ When people are suffering from financial condition to use costly machines. This 
 
 ## Where:
 
-Can be used in laboraties, home, pathology.
+Can be used in laboraties, home and pathology.
 
 # Detail requirements
 
