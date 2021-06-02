@@ -28,6 +28,24 @@ Since the system uses only open source software, it is free of cost..!!
 
 ![swot_analysis](https://user-images.githubusercontent.com/84609500/120428659-ae7c7b80-c391-11eb-8449-062a36dd89f4.png)
 
+# 4W's and 1'H
+
+## Who:
+
+The tool can be a helping hand for doctors who would like to counter whether the person having defected or undefected cells at very low costs.
+
+## What:
+
+This system can effectively monitor whether the person is effected by leukemia or not.
+
+## When:
+
+When people are suffering from financial condition to use costly machines. This can be used.
+
+## Where:
+
+Can be used in laboraties, home, pathology.
+
 
 
 
