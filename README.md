@@ -15,3 +15,7 @@ Test_plan	          |    Documents with test plans and procedures
 
 1. Implementation of GLCM matrices -> Later resolved.
 2. Microscopic image of blood samples -> Later resolved.
+
+# Credits
+
+1. Reference requirements and architecture and test plan - S Sanchana
