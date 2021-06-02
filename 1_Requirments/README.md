@@ -46,6 +46,14 @@ When people are suffering from financial condition to use costly machines. This 
 
 Can be used in laboraties, home, pathology.
 
+# Detail requirements
+
+## High Level Requirements:
+
+# ID       |      Description          | Status
+----       |      -----------          | ------
+Hr_01      |      Microscopic Images   | Implemented
+
 
 
 
