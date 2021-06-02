@@ -18,4 +18,4 @@ Test_plan	          |    Documents with test plans and procedures
 
 # Credits
 
-1. Reference requirements and architecture and test plan - [S Sanchana](https://github.com/Sanchana-2k)
+1. Reference requirements and architecture and test plan - [S Sanchana](https://github.com/Sanchana-2k/LTTS_C_MiniProject)
